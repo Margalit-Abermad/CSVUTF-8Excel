@@ -1,0 +1,15 @@
+C:\Users\user\Music\ImportAndExportHEBREWCSV\ImportAndExportHEBREWCSV\bin\Debug\net6.0\ImportAndExportHEBREWCSV.exe
+C:\Users\user\Music\ImportAndExportHEBREWCSV\ImportAndExportHEBREWCSV\bin\Debug\net6.0\ImportAndExportHEBREWCSV.deps.json
+C:\Users\user\Music\ImportAndExportHEBREWCSV\ImportAndExportHEBREWCSV\bin\Debug\net6.0\ImportAndExportHEBREWCSV.runtimeconfig.json
+C:\Users\user\Music\ImportAndExportHEBREWCSV\ImportAndExportHEBREWCSV\bin\Debug\net6.0\ImportAndExportHEBREWCSV.dll
+C:\Users\user\Music\ImportAndExportHEBREWCSV\ImportAndExportHEBREWCSV\bin\Debug\net6.0\ImportAndExportHEBREWCSV.pdb
+C:\Users\user\Music\ImportAndExportHEBREWCSV\ImportAndExportHEBREWCSV\obj\Debug\net6.0\ImportAndExportHEBREWCSV.csproj.AssemblyReference.cache
+C:\Users\user\Music\ImportAndExportHEBREWCSV\ImportAndExportHEBREWCSV\obj\Debug\net6.0\ImportAndExportHEBREWCSV.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Music\ImportAndExportHEBREWCSV\ImportAndExportHEBREWCSV\obj\Debug\net6.0\ImportAndExportHEBREWCSV.AssemblyInfoInputs.cache
+C:\Users\user\Music\ImportAndExportHEBREWCSV\ImportAndExportHEBREWCSV\obj\Debug\net6.0\ImportAndExportHEBREWCSV.AssemblyInfo.cs
+C:\Users\user\Music\ImportAndExportHEBREWCSV\ImportAndExportHEBREWCSV\obj\Debug\net6.0\ImportAndExportHEBREWCSV.csproj.CoreCompileInputs.cache
+C:\Users\user\Music\ImportAndExportHEBREWCSV\ImportAndExportHEBREWCSV\obj\Debug\net6.0\ImportAndExportHEBREWCSV.dll
+C:\Users\user\Music\ImportAndExportHEBREWCSV\ImportAndExportHEBREWCSV\obj\Debug\net6.0\refint\ImportAndExportHEBREWCSV.dll
+C:\Users\user\Music\ImportAndExportHEBREWCSV\ImportAndExportHEBREWCSV\obj\Debug\net6.0\ImportAndExportHEBREWCSV.pdb
+C:\Users\user\Music\ImportAndExportHEBREWCSV\ImportAndExportHEBREWCSV\obj\Debug\net6.0\ImportAndExportHEBREWCSV.genruntimeconfig.cache
+C:\Users\user\Music\ImportAndExportHEBREWCSV\ImportAndExportHEBREWCSV\obj\Debug\net6.0\ref\ImportAndExportHEBREWCSV.dll
